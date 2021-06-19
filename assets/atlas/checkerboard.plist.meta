@@ -1,0 +1,52 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "66765071-6a5c-459f-954f-99b9cb41edc8",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "19ff7": {
+      "importer": "sprite-frame",
+      "uuid": "66765071-6a5c-459f-954f-99b9cb41edc8@19ff7",
+      "displayName": "",
+      "id": "19ff7",
+      "name": "checkerboard",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 2048,
+        "height": 2048,
+        "rawWidth": 2048,
+        "rawHeight": 2048,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "464e7e01-4bdc-4bf0-82a1-d65f5477fad3@6c48a",
+        "atlasUuid": "66765071-6a5c-459f-954f-99b9cb41edc8"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "checkerboard.png",
+    "format": 3,
+    "uuid": "66765071-6a5c-459f-954f-99b9cb41edc8",
+    "textureUuid": "464e7e01-4bdc-4bf0-82a1-d65f5477fad3@6c48a"
+  }
+}
